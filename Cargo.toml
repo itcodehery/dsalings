@@ -1,0 +1,4 @@
+[package]
+name = "dsa-lings"
+edition = "2024"
+publish = false
