@@ -1,3 +1,3 @@
-pub mod exercise_1;
-pub mod exercise_2;
-pub mod exercise_3;
+pub mod linked_list_append;
+pub mod linked_list_intro;
+pub mod linked_list_length;

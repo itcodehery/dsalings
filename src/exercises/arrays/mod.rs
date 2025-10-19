@@ -1,3 +1,3 @@
-pub mod exercise_1;
-pub mod exercise_2;
-pub mod exercise_3;
+pub mod array_duplicate;
+pub mod array_rotate;
+pub mod array_sum;
